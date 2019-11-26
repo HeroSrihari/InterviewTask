@@ -1,0 +1,127 @@
+.container{
+    background-color: #f5f6fa;
+}
+.data {
+    width: 50px; 
+    position: relative;
+    margin: 0 0 0 180px;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+}
+.header{
+    position: relative;
+    width: 102%;
+    height: 80px;
+    background-color: blue;
+    margin-top: 10px;
+    right: 10px;
+}
+.sort-component{
+    width: 800px;
+    height: 80px;
+    margin: 10px 0 0 250px;
+    display: inline-block;
+}  
+h5{
+    display: inline-block;
+    margin: 20px;
+    color:#3c6382;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+span{
+    font-size: 25px;
+    font-weight: 800;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ .search{
+    width: 35px;
+    height: 35px;
+    position:relative;
+    color:#fff;
+    left:85%;
+    top:20px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.cart{
+    width: 15%;
+    height: 50px;
+    position:relative;
+    color:#fff;
+    left:90%;
+    bottom: 15px;
+    font-size: 30px;
+    cursor: pointer;
+} 
+.star{
+    width: 20px;
+    height: 20px;
+    position:absolute;
+    color:#f6b93b;
+    top: 12px;
+    left:20px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.footer{
+    position: relative;
+    width: 102%;
+    height: 50px;
+    background-color:#4a69bd;
+    text-align: center;
+    color: #fff;
+    right:10px;
+}
+h4{
+    position: relative;
+    line-height: 20px;
+    top:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.id{
+    font-size: 18px;
+}
+.price{
+    font-size: 20px;
+    position: relative;
+    font-weight: 700;
+    bottom: 54px;
+    left:70px;
+}
+.price-symbol{
+    position: relative;
+    left: 60px;
+    bottom: 25px;
+}
+.discount{
+    position: relative;
+    font-size: 20px;
+    color: #44bd32;
+    bottom: 83px;
+    left:120px;
+}
+.add-cart{
+    position: relative;
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #FFC312;
+    text-align: center;
+    line-height: 2.3rem;
+    border-radius: 20px;
+    left:20px;
+    bottom: 45px;
+}
+.filter{
+    position: absolute;
+    margin: 100px 0 0 0;
+}
