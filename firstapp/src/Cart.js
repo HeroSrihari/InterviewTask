@@ -1,6 +1,6 @@
 import React from 'react'
 import './cart.css'
-
+//This is a Cart component,It contains all the Cart details
 class Cart extends React.Component {
   constructor() {
     super()
