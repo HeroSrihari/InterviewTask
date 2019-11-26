@@ -1,8 +1,5 @@
 import React from 'react';
-
 import Cart from './Cart.js';
-
-
 function App() {
   return (
     <div className="App">
@@ -10,5 +7,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
