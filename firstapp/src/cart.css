@@ -126,3 +126,147 @@ h4{
     position: absolute;
     margin: 100px 0 0 0;
 }
+
+
+/* Items Sale Details */
+
+.search-check{
+    position: relative;
+    left: 70px;
+}
+#search-item{
+    position: absolute;
+    left: 75%;
+    top:37%; 
+    border: 2px solid; 
+}
+#search-item:hover{
+    border: 2px solid rgb(255, 47, 134);  
+}
+.cont{
+    height: 850px;
+    background-color: #ecf0f1;
+}
+.check-data{
+    width: 50%;
+    height: 20%;
+    background-color: #fff;
+    margin-top:2%;
+}
+.check-item{
+    position: relative;
+    bottom: 120px;
+    left:210px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.check-price{
+    position: relative;
+    bottom: 110px;
+    left:210px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+.check-discount{
+    position: relative;
+    bottom: 133px;
+    left:260px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #009432;
+    font-weight: 800;
+}
+.howmany-items{
+    position: relative;
+    bottom:97%;
+    left: 62%;
+}
+.decrease{
+    font-size: 25px;
+    width: 27px;
+    height: 27px;
+    text-align: center;
+    line-height: 1.5rem;
+    border: 1px solid;
+    border-radius:50%;
+    margin-top:10px;
+    cursor: pointer;
+}
+.count{
+    position: relative;
+    font-size: 18px;
+    font-weight: 700;
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    line-height: 1.7rem;
+    border: 1px solid;
+    left: 35px;
+    bottom: 28px;
+}
+.increament{
+    position: relative;
+    font-size: 25px;
+    width: 27px;
+    height: 27px;
+    text-align: center;
+    line-height: 1.3rem;
+    border: 1px solid;
+    border-radius:50%;
+    bottom: 54px;
+    left: 70px;
+    cursor: pointer;
+}
+.remove{
+    position: relative;
+    bottom:245px;
+    left:460px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+.price-detalis-main{
+    width: 300px;
+    height: 240px;
+    background-color: #fff;
+    position: absolute;
+    top:14.5%;
+    left:60%;
+    border: 1px solid;
+}
+.price-detalis{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    opacity: 0.5;
+}
+.item-sale{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+.sale-price{
+    font-size: 17px;
+    font-weight: 100;
+    margin-left: 60px;
+}
+.item-discounts{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+.sale-discounts{
+    font-size: 17px;
+    font-weight: 100;
+    margin-left: 100px;
+}
+.total{
+    font-size: 17px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+.total-pay{
+    font-size: 17px;
+    font-weight: 800;
+    margin-left: 59px;
+}
+
